@@ -1,0 +1,10 @@
+{
+  "title": "Login to your account",
+  "description": "Enter your email below to login to your account",
+  "emailLabel": "Email",
+  "emailPlaceholder": "m@example.com",
+  "passwordLabel": "Password",
+  "forgotPassword": "Forgot your password?",
+  "loginButton": "Login",
+  "signupButton": "Signup"
+}
